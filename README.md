@@ -88,6 +88,7 @@ Click the cds.lib file and save the file by clicking on Save option
 
 	We are simulating verilog design without using any libraries
 ![image](https://github.com/user-attachments/assets/ded55134-4ff5-4a24-a9cb-da1e193e777d)
+
 ## Fig 5: Selection of Don’t include any libraries
 
 	A Click “OK” in the “nclaunch: Open Design Directory” window
@@ -99,6 +100,7 @@ Click the cds.lib file and save the file by clicking on Save option
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
 
 <img width="959" alt="exp2 1" src="https://github.com/user-attachments/assets/0a7f799e-0784-4ca6-a946-221c551c33c9">
+
 ## Fig 6: Nclaunch Window
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation.
