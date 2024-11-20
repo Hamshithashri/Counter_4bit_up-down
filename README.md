@@ -73,6 +73,7 @@ Functional Simulation:
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple step
 
 <img width="950" alt="exp1 1" src="https://github.com/user-attachments/assets/0e177ce3-5229-4c1e-9b8f-7005cf3c0601">
+
 ## Fig 3: Setting Multi-step simulation
 
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure
@@ -80,6 +81,7 @@ Select Multiple Step and then select “Create cds.lib File” as shown in below
 Click the cds.lib file and save the file by clicking on Save option
 
 <img width="952" alt="exp1 2" src="https://github.com/user-attachments/assets/a3b95556-b397-4917-bae8-2648014cee45">
+
 ## Fig 4: cds.lib file Creation
 
 	Save cds.lib file and select the correct option for cds.lib file format based on the  HDL Language and Libraries used.
@@ -126,6 +128,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
 <img width="959" alt="exp2 2" src="https://github.com/user-attachments/assets/2e8fd8a3-34e4-4d34-9722-c8f97bf3928e">
+
 ## Fig 7: Compiled database in worklib
 
 	After compilation it will come under worklib you can see in right side window
@@ -156,6 +159,7 @@ It contains statements that map logical library names to their physical director
 	After elaboration the file will come under snapshot. Select the test bench and simulate it.
 
 <img width="959" alt="exp2 2" src="https://github.com/user-attachments/assets/0e53d392-d128-494a-94ae-7f17b10961fa">
+
 ## Fig 8: Elaboration Launch Option
 
 ### Step 3: Simulation: – Simulate with the given test vectors over a period of time to observe the output behaviour. 
@@ -169,9 +173,11 @@ It contains statements that map logical library names to their physical director
 	Steps for simulation – Run the simulation command with simulator options
 
 ![image](https://github.com/user-attachments/assets/56b336b8-f559-432d-9a6a-3bc958df1cc0)
+
 ## Fig 9: Design Browser window for simulation
 
 ![image](https://github.com/user-attachments/assets/0e16d274-a1f3-456d-ba64-6f05446b5ab3)
+
 ## Fig 10: Simulation Waveform Window
 
 
